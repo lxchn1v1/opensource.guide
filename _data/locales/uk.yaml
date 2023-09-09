@@ -1,0 +1,31 @@
+uk:
+  locale_name: Українська
+  nav:
+    about: Про проект
+    contribute: Сприяти
+  index:
+    lead: Програми з відкритим кодом створюють такі самі люди, як і ви. Дізнайтеся, як запустити та розвивати свій проект.
+    opensourcefriday: Сьогодні п'ятниця! Приділіть кілька годин програмі, яку ви любите і використовуєте.
+  article:
+    table_of_contents: Зміст
+    back_to_all_guides: На головну
+    related_guides: Пов'язані теми
+  footer:
+    contribute:
+      heading: Сприяти
+      description: Маєте що запропонувати? Ці матеріали відкриті для редагування. Допоможіть поліпшити їх.
+      button: Сприяти
+    subscribe:
+      heading: Залишайтеся на зв'язку
+      description: Будьте першими, хто дізнається новини зі світу відкритого коду.
+      label: Електронна пошта
+      button: Підписатися
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] з [love] разом з [github] і [друзями]"
+      # Label for code octicon
+      code_label: програмуйте
+      # Label for love octicon
+      love_label: любов'ю
+      # Label for the contributors link
+      friends_label: друзями
